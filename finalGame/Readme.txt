@@ -1,1 +1,0 @@
-Giải nén, bật file Tetris.exe và chơi thôi
